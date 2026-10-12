@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Barbershop - Gestão para barbearias e salões
 
 Stack: Flask + MySQL + Streamlit + HTML/CSS/JS.
@@ -37,3 +38,4 @@ O layout vem do Figma (`frontend/static/css/app.css`). Para aumentar ou diminuir
 altere `--t` no início do CSS (padrão `1.3`).
 Os arquivos antigos vazios `frontend/templates/{base,login,agenda,clientes}.html` e `frontend/static/js/agenda.js`
 não são mais usados e podem ser apagados.
+=======
